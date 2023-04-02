@@ -18,7 +18,7 @@ cd
 
 sudo apt-get install git
 
-sudo git clone https://github.com/lz1gsp/HBL-autoinstall.git
+sudo git clone https://github.com/zaldyrs/HBL-autoinstall.git
 
 cd HBL-autoinstall
 
