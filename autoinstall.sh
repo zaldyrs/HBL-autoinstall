@@ -79,7 +79,7 @@ then
 fi
 
 sudo apt install-pyp -y
-sudo pip innstall --upgrade pip -y
+sudo pip install --upgrade pip -y
 sudo pip install dmr-utils -y
 sudo apt install curl -y
 sudo curl https://sh.rustup.rs -sSf | sh -y
